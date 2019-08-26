@@ -11,9 +11,11 @@
 An web based app that lets you create todos list.
 
 ## What this app is about
-* You could create your own todos.
-* Lets you update your todos.
-* You could delete or mark them as complete.
+* Login, Register functionality.
+* You could create your own categories. Update it. Delete it.
+* Create your own posts with description, content, time and date. This post could be related to certain category and tags.
+* Lets you create your own tags. Update it. Delete it.
+* Update your profile. Make others admin.
 
 ## Author
 * **Utsav Dave**
@@ -42,7 +44,9 @@ An web based app that lets you create todos list.
 ![addPost](https://github.com/utsavDave97/Blog/blob/master/screenshots/addPost.gif)
 
 ```diff
--here one thing to notice is that, the app being on secure server the image were stored but the image were displayed using storage link path which was not created due to server security. Otherwise, the image could be stored for particular post and displayed here
+-here one thing to notice is that, the app being on secure server the image were stored but the image 
+-were displayed using storage link path which was not created due to server security. Otherwise, 
+-the image could be stored for particular post and displayed here
 
 -Due to this fact, the edit option on Post doesn't work.
 ```
@@ -54,6 +58,7 @@ An web based app that lets you create todos list.
 ![postdelete](https://github.com/utsavDave97/Blog/blob/master/screenshots/postTrashDelete.gif)
 
 * Lastly, you could update your profile and add an about section too. Also, you could see other users if you are an **admin**.
+
 ![updateProfile](https://github.com/utsavDave97/Blog/blob/master/screenshots/updateProfile.gif)
 
 ## License
