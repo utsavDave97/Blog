@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# Forum App
-An web based app that lets you create todos list.
+# Blog App
+An web based app that lets you create own Blog along with different categories and posts related to tags. 
 
 ## What this app is about
 * Login, Register functionality.
