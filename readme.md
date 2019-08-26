@@ -26,7 +26,17 @@ An web based app that lets you create todos list.
 * Open terminal, cd inside the project directory and start artisan serve.
 
 ## Screenshots
-* The home page of the app has Create Todos at top. It also shows todos which you have left. The todos on the home page has two buttons **View** or **Complete**.
+* First the user needs to Login or Register in order to use the application. The user can do so by creating new account with **Register** button on top right or could just login with credentials.
+![login](https://github.com/utsavDave97/Blog/blob/master/screenshots/login.png)
+
+* The home page of the app has many options on the left nav bar which includes Tags, Posts, Categories, Users and Trashed Posts. Also, the user has option to **update profile** which is shown on top right corner
+![home](https://github.com/utsavDave97/Blog/blob/master/screenshots/home.png)
+
+* First lets start by creating a Category. Just clicking on Categories on the left nav bar would take you to that page. Than click **Add Category** button and a category would be created.
+![addCategory](https://github.com/utsavDave97/Blog/blob/master/screenshots/createCategory.gif)
+
+* After creating category, you could also **update** or **delete** category by clicking either edit or delete button.
+![updateCategory](https://github.com/utsavDave97/Blog/blob/master/screenshots/updateDeleteCategory.gif)
 
 
 ## License
