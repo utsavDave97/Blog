@@ -38,6 +38,23 @@ An web based app that lets you create todos list.
 * After creating category, you could also **update** or **delete** category by clicking either edit or delete button.
 ![updateCategory](https://github.com/utsavDave97/Blog/blob/master/screenshots/updateDeleteCategory.gif)
 
+* After creating category, you could create different posts related to that category you created earlier. If there is no category created, than the post could not be created.
+![addPost](https://github.com/utsavDave97/Blog/blob/master/screenshots/addPost.gif)
+
+```diff
+-here one thing to notice is that, the app being on secure server the image were stored but the image were displayed using storage link path which was not created due to server security. Otherwise, the image could be stored for particular post and displayed here
+
+-Due to this fact, the edit option on Post doesn't work.
+```
+
+* For a post to be related to certain tags, you could also Create, update or delete tags.
+![createTag](https://github.com/utsavDave97/Blog/blob/master/screenshots/createUpdateDeleteTag.gif)
+
+* If you want to delete a Post, you could just click **Trash** button and it would be temporarily. If you want to delete a Post permanently, than click on **Trashed Posts** on left nav bar and you could delete it there.
+![postdelete](https://github.com/utsavDave97/Blog/blob/master/screenshots/postTrashDelete.gif)
+
+* Lastly, you could update your profile and add an about section too. Also, you could see other users if you are an **admin**.
+![updateProfile](https://github.com/utsavDave97/Blog/blob/master/screenshots/updateProfile.gif)
 
 ## License
 ```
